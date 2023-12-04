@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  font-size: larger;
+  font-family: "Times New Roman", Times, serif;
+  border: border-box;
+}
+.navbar {
+  height: 40px;
+  background-color: white;
+  text-align: center;
+}
+body {
+  background-image: url(https://lh6.googleusercontent.com/proxy/95Sxz4v-Q5rZUvbdNpSgxmWfeq1kqiD1o-ee-XsmCyiqzY-Ubu4OeRnS3qp0GL9I4ZeY9EDUtDnIY2nGVCrsFXxBNZDaoWmC6Uti1Gdg1UamoMza=s0-d);
+}
+article {
+  text-align: justify;
+  font-size: 30px;
+}
+section {
+  color: rgb(222, 231, 231);
+}
+* button {
+  border-radius: 2px;
+}
